@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   <a href="https://master-plant.com">
-  <img src="./header_image.png" alt="Master Plant Header Image">
+  <img src="./arduino_plant.jpeg" alt="Master Plant Header Image">
 </a>
 </h1>
 
@@ -36,7 +36,7 @@
 
 **Master Plant** is a an automated watering system.
 
-![ArminC AutoExec Code](./header_image.png)
+![ArminC AutoExec Code](./prototypeA.jpeg)
 <p align="right">
 <sub>(Preview)</sub>
 </p>
