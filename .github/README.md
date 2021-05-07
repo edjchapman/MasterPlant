@@ -22,9 +22,9 @@
 <tr>
 <td>
 
-**Master Plant** is a an automated watering system.
+**Master Plant** automated watering system.
 
-![ArminC AutoExec Code](./prototypeA.jpeg)
+![Prototype A](./prototypeA.jpeg)
 <p align="right">
 <sub>(Preview)</sub>
 </p>
@@ -44,11 +44,9 @@ git clone https://github.com/edjchapman/MasterPlant
 
 ## Features
 
-|                            | 🔰 ArminC AutoExec |
-| -------------------------- | :----------------: |
-| Go API                     |         ✔️         |
-| Arduino sensor system      |         ✔️         |
-| Mobile app for monitoring  |         ✔️         |
+- Go Server/API
+- Arduino sensor system
+- React Native iOS & Android apps
 
 ## License
 
