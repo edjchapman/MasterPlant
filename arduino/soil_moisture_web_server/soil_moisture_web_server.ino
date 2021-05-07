@@ -1,20 +1,16 @@
 /*
-  Web Server
+  Simple Web Server
 
- A simple web server that shows the value of the analog input pins.
+ A simple web server that shows the value of the analog input pins
  using an Arduino Wiznet Ethernet shield.
 
  Circuit:
  * Ethernet shield attached to pins 10, 11, 12, 13
  * Analog inputs attached to pins A0 through A5 (optional)
 
- created 18 Dec 2009
- by David A. Mellis
+ created 07 May 2021
+ by Edward J Chapman
  modified 9 Apr 2012
- by Tom Igoe
- modified 02 Sept 2015
- by Arturo Guadalupi
- 
  */
 
 #include <SPI.h>
