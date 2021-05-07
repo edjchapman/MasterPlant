@@ -1,11 +1,11 @@
+<h1 align="center">Automated Plant Watering System</h1>
+
 <h1 align="center">
   <br>
   <a href="https://master-plant.com">
   <img src="./arduino_plant.jpeg" alt="Master Plant Header Image">
 </a>
 </h1>
-
-<h4 align="center">Automated Plant Watering System</h4>
 
 <p align="center">
   <a href="#about">About</a> •
