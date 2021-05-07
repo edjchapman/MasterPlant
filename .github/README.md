@@ -1,4 +1,4 @@
-<h1 align="center">Automated Plant Watering System</h1>
+<h1 align="center">Master Plant Monitoring System</h1>
 
 <h1 align="center">
   <br>
@@ -22,7 +22,7 @@
 <tr>
 <td>
 
-**Master Plant** automated watering system.
+**Master Plant** monitoring system.
 
 ![Prototype A](./prototypeA.jpeg)
 <p align="right">
