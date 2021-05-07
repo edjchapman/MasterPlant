@@ -8,18 +8,6 @@
 <h4 align="center">Automated Plant Watering System</h4>
 
 <p align="center">
-    <a href="https://github.com/edjchapman/MasterPlant/commits/master">
-    <img src="https://img.shields.io/github/last-commit/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
-         alt="GitHub last commit">
-    <a href="https://github.com/edjchapman/MasterPlant/issues">
-    <img src="https://img.shields.io/github/issues-raw/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
-         alt="GitHub issues">
-    <a href="https://github.com/edjchapman/MasterPlant/pulls">
-    <img src="https://img.shields.io/github/issues-pr-raw/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
-         alt="GitHub pull requests">
-</p>
-
-<p align="center">
   <a href="#about">About</a> •
   <a href="#installation">Installation</a> •
   <a href="#features">Features</a> •
