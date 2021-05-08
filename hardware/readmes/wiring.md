@@ -1,15 +1,13 @@
-Arduino Configuration
-=====================
+Sensor Hardware Configuration
+=============================
 
-## Soil Moisture Sensor
+### Components
+1. Probe with two pads that detect water content.
+2. Electronic board
 
-Two components
- 1. Probe with two pads that detect water content.
- 2. Electronic board
+### Pin Wiring
 
 ![Pin Wiring](./readme_images/arduino_wiring.jpg)
-
-Pin Wiring
 
 | Pin         | Wiring to Arduino | Colour |
 | ----------- | ----------------- | ------ |
