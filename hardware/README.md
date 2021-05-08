@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://github.com/edjchapman/MasterPlant/blob/main/arduino/README.md">
+    <a href="https://github.com/edjchapman/MasterPlant/blob/main/hardware/readmes/wiring.md">
       Wiring
     </a>
     <span> | </span>
-    <a href="https://github.com/edjchapman/MasterPlant/blob/main/arduino/README.md">
+    <a href="https://github.com/edjchapman/MasterPlant/blob/main/hardware/readmes/wiring.md">
       C Lang
     </a>
     <span> | </span>
-    <a href="https://github.com/edjchapman/MasterPlant/blob/main/arduino/README.md">
+    <a href="https://github.com/edjchapman/MasterPlant/blob/main/hardware/readmes/wiring.md">
       Go Lang
     </a>
   </h3>
