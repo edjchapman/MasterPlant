@@ -15,10 +15,6 @@
     <a href="https://github.com/edjchapman/MasterPlant/blob/main/hardware/readmes/c_lang.md">
       C Lang
     </a>
-    <span> | </span>
-    <a href="https://github.com/edjchapman/MasterPlant/blob/main/hardware/readmes/go_lang.md">
-      Go Lang
-    </a>
   </h3>
 </div>
 
