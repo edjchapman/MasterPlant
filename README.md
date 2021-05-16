@@ -50,6 +50,4 @@ git clone https://github.com/edjchapman/MasterPlant
 
 ## License
 
-[![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg?style=flat-square)](https://tldrlegal.com/license/gnu-lesser-general-public-license-v3-(lgpl-3))
-
 - Copyright © [Edward Chapman](https://edwardchapman.co.uk "Master Plant").
