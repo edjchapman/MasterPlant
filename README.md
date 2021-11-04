@@ -47,7 +47,3 @@ git clone https://github.com/edjchapman/MasterPlant
 - Go Server/API
 - Arduino sensor system
 - React Native iOS & Android apps
-
-## License
-
-- Copyright © [Edward Chapman](https://edwardchapman.co.uk "Master Plant").
